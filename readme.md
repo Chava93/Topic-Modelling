@@ -1,7 +1,5 @@
 # Topic Modeling From Trip Advisor
 
-This repository contains the files I used to lead a workshop at my "Alma Máter" congress of actuary.
-
 This repository contains the files I used to lead a workshop about a Natural Language Processing model called "Topic Modelling" at the Marista University (Mexico City).
 The objective of this model is to find relevant topics out of a bunch of comments, opinions, etc.
 Follow these steps to understand the model:
